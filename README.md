@@ -1,6 +1,5 @@
-# hello_flutter
 
-A new Flutter project.
+A frontend calculator using Flutter.
 
 ## Getting Started
 
